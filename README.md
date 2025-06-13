@@ -80,6 +80,11 @@ Edit
 
 
 🧮 Estimated Probability of Survival: 79.48%
+
+
+
+
+
 📈 Sample Visualizations
 Age distribution
 
